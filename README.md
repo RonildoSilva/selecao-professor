@@ -1,5 +1,21 @@
 
 
+# Tema da Avaliação
+
+**Tema de aula teste:**
+
+Desenvolvimento de um sistema de login com React e Node.js: Autenticação JWT, rotas protegidas e boas práticas de segurança.
+
+O(a) candidato(a) deverá demonstrar, de forma prática e didática, o desenvolvimento de um sistema básico de login utilizando React no front-end e Node.js com Express.js no back-end.
+
+**A apresentação deve abordar:**
+
+- O fluxo de autenticação (login, logout e persistência do usuário).
+- Proteção de rotas no front-end (React Router, Context ou Hooks).
+- Autenticação com JWT no back-end.
+- Boas práticas de segurança e organização do código.
+- Demonstração funcional e explicação didática das etapas de desenvolvimento.
+
 ## Fluxo do Backend (Mermaid)
 
 ```mermaid
