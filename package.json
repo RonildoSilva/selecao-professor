@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "http-status-codes": "^2.3.0",
+    "jsonwebtoken": "^9.0.3",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "vite": "^7.3.1"
+  }
+}
